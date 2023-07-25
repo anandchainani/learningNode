@@ -1,0 +1,1 @@
+appending two files, file 1 this is the first note, file 2 hello this is note 2  appending two files, file 1 this is the first note, file 2 hello this is note 2  

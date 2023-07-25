@@ -1,0 +1,3 @@
+npm init is used to initalize package.json, it is used to set up step by step process
+
+npm init -ye is used to set everything to default
